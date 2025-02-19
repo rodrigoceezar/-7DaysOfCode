@@ -1,7 +1,7 @@
 # 7 Days Of Code - HTML e CSS
 Desafiado por: Fernanda Degolin
 
-![7 Days Of Code](https://www.alura.com.br/assets/img/7-days-of-code/logo-7dc.svg)
+![7 Days Of Code](assets/img/logo.svg)
 
 ## 🚀 Desafio da Alura
 
