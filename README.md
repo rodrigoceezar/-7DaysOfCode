@@ -11,7 +11,7 @@ Este repositório contém a minha solução para o desafio **7 Days Of Code** fo
 Durante **7 dias**, será realizado um aprendizado prático e progressivo com HTML e CSS. A cada dia, novos conceitos serão explorados e aplicados na construção do projeto.
 
 ## Figma do projeto: 
-https://www.figma.com/file/boX9zUOYGNRuadqPh4JwwE/Alura?node-id=0%3A1&utm_medium=email&_hsenc=p2ANqtz-9_vPy-PFHnhZbfxJam-pJpLX2YptP6W7qoD08SwX5ckbA7iVBmZO_4pl78kgHZ1Rb63TGOmg3f7lIqgnBl0ibgWHiPOskM9cpBtzXaSaAqKlD2Iho&_hsmi=231338484&utm_content=231338484&utm_source=hs_automation
+Moldes do layout do <a href="https://www.figma.com/file/boX9zUOYGNRuadqPh4JwwE/Alura?type=design&node-id=0%3A1&mode=dev">Figma</a>
 
 ## 🛠 Tecnologias Utilizadas
 - **HTML5**
@@ -20,7 +20,10 @@ https://www.figma.com/file/boX9zUOYGNRuadqPh4JwwE/Alura?node-id=0%3A1&utm_medium
 - **Google Fonts e Font Awesome** (se aplicável)
 
 ## 📅 Cronograma
-### Dia 1:
+### Dia 1: 
+Criar o banner de destaque da página da Netflix, que contem uma imagem de fundo, a logo do filme, um paragrafo e dois botões (Assistir e Mais informações)
+
+### Dia 2: 
 
 💡 _Desafio proposto por [Alura](https://www.alura.com.br/)._
 
